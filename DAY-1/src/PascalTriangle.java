@@ -9,6 +9,7 @@ public class PascalTriangle {
         System.out.println("Enter the number of rows in pascal triangle");
         int n = sc.nextInt();
 
+        //Stores pascaltriangle values of each row
         List<List<Integer>> result = triangle(n);
 
         for(int i=0;i<n;i++) {
