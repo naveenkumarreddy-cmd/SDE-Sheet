@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DAY-1/DAY-1.iml" filepath="$PROJECT_DIR$/DAY-1/DAY-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY-2/DAY-2.iml" filepath="$PROJECT_DIR$/DAY-2/DAY-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SDE-Sheet.iml" filepath="$PROJECT_DIR$/.idea/SDE-Sheet.iml" />
     </modules>
   </component>
